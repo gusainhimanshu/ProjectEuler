@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359232737 source:c:\codeblocks\problem10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
